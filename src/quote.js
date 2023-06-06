@@ -69,12 +69,12 @@ export class Quote extends React.Component {
           <div class="author">- {this.state.quote.author}</div>
           <div className="buttons ">
             <a href="https://www.twitter.com/">
-              <button className="btn btn-primary mx-1">
+              <button className="btn btn-secondary mx-1">
                 <i className="fa fa-twitter" style={{ color: "white" }} />
               </button>
             </a>
             <a href="https://www.facebook.com/">
-              <button className="btn btn-primary" style={{ color: "white" }}>
+              <button className="btn btn-secondary" style={{ color: "white" }}>
                 <i className="fa fa-facebook" />
               </button>
             </a>
