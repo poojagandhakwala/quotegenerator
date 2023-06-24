@@ -28,6 +28,7 @@ export class Quote extends React.Component {
       "brown",
       "darkblue",
       "purple",
+      "#246139",
       "darkgreen",
       "#d8800c",
       "#058872",
